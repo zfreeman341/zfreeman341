@@ -1,7 +1,7 @@
 
-### Hi there, I'm Zack Freeman! 👋
+<h3 align="center>  Hi there, I'm Zack Freeman! 👋 </h3>
 
-<h3 align="center"> Attorney 👨‍⚖️ --> Software Engineer 💻 </h3>
+<p align="center"> Attorney 👨‍⚖️ --> Software Engineer 💻 </p>
 
 During my journey to become a software engineer, I've gained expertise in the following tools and technologies: 
 
