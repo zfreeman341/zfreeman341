@@ -1,3 +1,5 @@
+<div align="center>
+
 ### Hi there, I'm Zack Freeman! 👋
 
 Attorney 👨‍⚖️ --> Software Engineer 💻 
@@ -41,4 +43,6 @@ During my journey to become a software engineer, I've gained expertise in the fo
 
 🌱 Continuous Learning & Development 🌱
 
-I am a lifelong learner with a passion for software development. I am always seeking new opportunities to expand my skillset and stay updated on latest industry trends and cutting edge technologies. Currently, I am expanding my knowledge by building a full-stack music application (with features including streaming and concert setlist lookups) using Typescript and React, as well as enhancing my knowledge of back-end technologies such as Node and Express. 
+I am a lifelong learner with a passion for software development. I am always seeking new opportunities to expand my skillset and stay updated on latest industry trends and cutting edge technologies. Currently, I am expanding my knowledge by building a full-stack music application (with features including streaming and concert setlist lookups) using Typescript and React, as well as enhancing my knowledge of back-end technologies such as Node and Express.
+            
+            </div>
